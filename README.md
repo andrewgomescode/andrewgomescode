@@ -32,9 +32,15 @@
   <a href="mailto:andrewgomes.brc@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" /></a>
   <a href="https://wa.me/5521971339545" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
   <a href="https://andrewgomesdev.tiiny.site" target="_blank"><img height="30" width="80" src="https://www.transparentpng.com/thumb/resume/1GoGdJ-resume-buttond-image.png"></a>
-  
+</div>
+
+##
+
+<div align="center">
   ![snake gif](https://github.com/andrewgomescode/andrewgomescode/blob/output/github-snake-dark.svg)
 </div>
+
+##
 
 - 🔭 Hoje trabalho como desenvolvedor Front-end
 - 🌱 Estudando TypeScript
