@@ -43,5 +43,5 @@
 
 - 🔭 Hoje trabalho como desenvolvedor Front-end
 - 🌱 Estudando TypeScript
-- 🌐 Website Portfólio: <a href="https://andrew-gomes.netlify.app" target="_blank">https://andrew-gomes.netlify.app</a> 🚧 
+- 🌐 Website Portfólio: <a href="https://andrew-gomes.netlify.app" target="_blank">andrew-gomes.netlify.app</a> 🚧 
 - ✉️ Email para contato: andrewgomes.brc@gmail.com
