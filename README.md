@@ -29,7 +29,7 @@
   <a href="discordapp.com/users/164152048051421184" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
   <a href="mailto:andrewgomes.brc@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" /></a>
   <a href="https://wa.me/5521971339545" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
-  <a href="https://andrewgomesdev.tiiny.site" target="_blank"><img height="30" width="80" src="https://www.transparentpng.com/thumb/resume/1GoGdJ-resume-buttond-image.png"></a>
+  <a href="https://andrew-gomes.netlify.app/CV_Andrew_Gomes.pdf" target="_blank"><img height="30" width="80" src="https://www.transparentpng.com/thumb/resume/1GoGdJ-resume-buttond-image.png"></a>
 </div>
 
 ##
