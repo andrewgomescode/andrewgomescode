@@ -41,7 +41,6 @@
 
 ##
 
-- 🔭 Hoje trabalho como desenvolvedor Front-end
-- 🌱 Estudando TypeScript
+- 🔭 Hoje trabalho como desenvolvedor FullStack na OVERCUB. 
 - 🌐 Website Portfólio: https://andrew-gomes.netlify.app 🚧 
 - ✉️ Email para contato: andrewgomes.brc@gmail.com
