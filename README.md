@@ -17,6 +17,8 @@
 <img align="center" alt="Andrew-REACT" title="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 <img align="center" alt="Andrew-NEXT" title="NEXTJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" >  
 <img align="center" alt="Andrew-TAILWINDCSS" title="TailwindCSS" height="30" width="40" src="https://www.svgrepo.com/show/374118/tailwind.svg"> 
+<img align="center" alt="Andrew-Node" title="Node" height="30" width="40" src="https://www.svgrepo.com/show/303658/nodejs-1-logo.svg" >
+<img align="center" alt="Andrew-postgresql" title="PostgreSQL" height="30" width="40" src="https://www.svgrepo.com/show/354200/postgresql.svg" >
 <img align="center" alt="Andrew-Motion" title="Framer-Motion" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/framermotion/framermotion-original.svg" />
 <img align="center" alt="Andrew-FIGMA" title="Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" >
 <img align="right" alt="Andrew-Gif" title="Andrew-Gif" height="130" width="130" src="https://cdn.discordapp.com/attachments/866995757171867689/1336692214969012325/Design_sem_nome_1.gif?ex=67a4bb22&is=67a369a2&hm=bc84798a2cc0e70333267116e542220e3da411307ffd8f6087d7205717815aed" >      
