@@ -43,6 +43,6 @@
 
 ##
 
-- 🔭 Hoje trabalho como desenvolvedor FullStack na OVERCUB. 
+- 🔭 https://www.linkedin.com/in/andrewgomess/ 
 - 🌐 Website Portfólio: https://andrew-gomes.netlify.app 🚧 
 - ✉️ Email para contato: andrewgomes.brc@gmail.com
